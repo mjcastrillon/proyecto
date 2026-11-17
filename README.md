@@ -41,7 +41,7 @@ Ejemplo de una lista con varios niveles:
 
 Ejemplo de una lista de chequeo:
 - [X] Obtener la cita
-- [X] Pagar los derechos
+- [ ] Pagar los derechos
 - [X] Ir a la cita
 - [ ] Esperar a que llegue el documento
 
@@ -58,3 +58,7 @@ V | F | F
 F | V | F
 F | F | F
 
+## Ejemplo de codigo en C++
+```c++
+int var = 0;
+printf("Ejemplo");
