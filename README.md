@@ -49,3 +49,12 @@ Simón Bolívar dijo:
 
 > En el momento en que cesen los partidos
 > y se consolide la unión, yo bajaré tranquilo al sepulcro
+
+## Tabla de verdad del AND
+A | B | A and B
+--|---|---------
+V | V | V
+V | F | F
+F | V | F
+F | F | F
+
